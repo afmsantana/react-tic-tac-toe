@@ -185,16 +185,16 @@ Besides solving these additional tasks I also added new features to this tutoria
 
 #### Game (WEB)
 
-![](/Users/afms/Desktop/React/react-tic-tac-toe/screens/Game-Web.png)
+![](./screens/Game-Web.png)
 
 #### Results (WEB)
 
-![](/Users/afms/Desktop/React/react-tic-tac-toe/screens/Results-Web.png)
+![](./screens/Results-Web.png)
 
 #### Game (Mobile)
 
-<img title="" src="file:///Users/afms/Desktop/React/react-tic-tac-toe/screens/Game-Mobile.png" alt="" width="200" data-align="inline">
+<img title="" src="./screens/Game-Mobile.png" width="200">
 
 #### Results (Mobile)
 
-<img src="file:///Users/afms/Desktop/React/react-tic-tac-toe/screens/Results-Mobile.png" title="" alt="" width="202">
+<img src="./screens/Results-Mobile.png" width="202">
