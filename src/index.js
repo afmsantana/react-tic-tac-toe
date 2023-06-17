@@ -5,6 +5,7 @@ import Game from "./game/Game";
 import "./styles.css";
 import "./input.css"
 import { GameProvider } from "./contexts/GameContext";
+import GameResults from "./results/GameResults";
 
 function Navigator(props) {
   return(
@@ -27,7 +28,7 @@ root.render(
           <Routes>
             <Route path ="/" element={<Navigate to="/game" />} />
             <Route path ="/game" element={<Game />} />
-            <Route path ="/results" element={<></>} />
+            <Route path ="/results" element={<GameResults />} />
           </Routes>
         </Navigator>
       </BrowserRouter>
